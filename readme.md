@@ -3,6 +3,10 @@
 ConsoleMirror is a simple utility that allows you to capture the console output of 
 `Console.Write()` and `Console.WriteLine()` calls within your .NET console applications.
 
+### Installation
+
+[ConsoleMirror is available on NuGet](https://nuget.org/packages/ConsoleMirror) and works on .NET 2.0+
+
 ### Sample usage
 
 ```csharp
